@@ -1,4 +1,4 @@
-package com.example.cb_yeti.yetiflashlight;
+package com.example.user.yetiflashlight;
 
 import android.content.Context;
 import android.content.pm.PackageManager;

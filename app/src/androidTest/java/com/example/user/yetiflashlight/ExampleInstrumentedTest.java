@@ -1,4 +1,4 @@
-package com.example.cb_yeti.yetiflashlight;
+package com.example.user.yetiflashlight;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.example.cb_yeti.yetiflashlight", appContext.getPackageName());
+        assertEquals("com.example.user.yetiflashlight", appContext.getPackageName());
     }
 }

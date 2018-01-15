@@ -1,4 +1,4 @@
-package com.example.cb_yeti.yetiflashlight;
+package com.example.user.yetiflashlight;
 
 import org.junit.Test;
 

@@ -2,11 +2,10 @@ apply plugin: 'com.android.application'
 
 android {
     compileSdkVersion 26
-    buildToolsVersion "26.0.0-beta2"
     defaultConfig {
-        applicationId "com.example.cb_yeti.yetiflashlight"
+        applicationId "com.example.user.yetiflashlight"
         minSdkVersion 23
-        targetSdkVersion 25
+        targetSdkVersion 26
         versionCode 1
         versionName "1.0"
         testInstrumentationRunner "android.support.test.runner.AndroidJUnitRunner"
